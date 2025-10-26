@@ -27,17 +27,17 @@ I'm a passionate software engineer with expertise in building scalable applicati
 - Demonstrates business analysis and financial modeling capabilities
 
 #### 🤖 [Clean Architecture Application (CAA)](https://github.com/led-21/CAA)
-**Recent Project** | ⭐ 1 Star
+**October 2025** | ⭐ 1 Star
 - Modern C# application following Clean Architecture principles
 - Implements best practices for maintainable and scalable code
 - Technologies: C#, .NET
 
 #### 🧠 [AI & NLP Projects](https://github.com/led-21/TextGenerator)
-**JetBrains Academy Course** | ⭐ 1 Star
-- Text generation using Natural Language Processing
-- Corpus annotation and linguistic analysis
+**Personal Project - September 2024** | ⭐ 1 Star
+- Text generation system using Natural Language Processing
+- Corpus annotation and linguistic analysis implementations
 - Technologies: Python, NLP libraries
-- Related: [Corpus Annotation](https://github.com/led-21/CorpusAnnotation)
+- Related: [Corpus Annotation Tool](https://github.com/led-21/CorpusAnnotation)
 
 #### 🎨 [Ray Tracing Implementation](https://github.com/led-21/RayTracingBook)
 **Computer Graphics** | ⭐ 1 Star
