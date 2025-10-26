@@ -2,7 +2,7 @@
 
 ## Software Engineer | Full Stack Developer | AI/ML Enthusiast
 
-I'm a passionate software engineer with expertise in building scalable applications, cloud solutions, and AI-powered systems. With a strong foundation in multiple programming languages and modern frameworks, I specialize in developing innovative solutions that drive business value.
+I’m a multidisciplinary engineer and software developer with over 10 years of experience delivering solutions across agriculture, livestock, mining, and environmental sectors. Currently CTO at TecProjet, I specialize in building scalable applications, IoT/automation systems, and AI-powered platforms that connect real-world engineering with modern software.
 
 ### 🔧 Technical Skills
 
