@@ -45,21 +45,6 @@ I'm a passionate software engineer with expertise in building scalable applicati
 - Demonstrates understanding of 3D graphics and computational geometry
 - Technologies: C++
 
-#### 🛡️ [Cybersecurity Phishing Analysis](https://github.com/led-21/cibersecurity-desafio-phishing)
-**Security Research**
-- Phishing detection and analysis project
-- Demonstrates security awareness and defensive programming skills
-
-#### 📊 [Power BI Analytics Lab](https://github.com/led-21/power-bi-lab)
-**Business Intelligence**
-- Data visualization and analytics dashboards
-- Business intelligence and data-driven decision making
-
-#### 🐳 [Docker & Containerization](https://github.com/led-21/desafio-dio-docker)
-**DevOps**
-- Docker containerization project
-- Technologies: C#, Docker
-
 ### 🌱 Current Focus
 
 - Exploring AI-powered applications with .NET Aspire and Ollama
@@ -67,25 +52,14 @@ I'm a passionate software engineer with expertise in building scalable applicati
 - Building scalable cloud-native applications
 - Advancing expertise in Azure AI services
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=led-21&show_icons=true&theme=radical)
-
-### 🎓 Continuous Learning
-
-- **AI-900 Azure AI Fundamentals** - Microsoft Azure Bootcamp
-- **NLP Engineer Track** - JetBrains Academy
-- **Git & Version Control** - JetBrains Course
-- Various bootcamps and certifications (DIO.me)
-
 ### 🔗 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/adriano-godoy-84246051/)
 - 🌐 [GitHub](https://github.com/led-21)
-- 📧 Available for opportunities and collaboration
+- 📧 Available for collaboration
 
 ---
 
-💡 **Open to:** Full-time positions, freelance projects, and technical collaborations in software development, AI/ML, and cloud architecture.
+💡 **Open to:** freelance and collaborative projects in Software Engineering, AI/ML, and Cloud Architecture.
 
 ⚡ **Fun fact:** I balance coding with agricultural technology projects, combining traditional industries with modern tech solutions!
