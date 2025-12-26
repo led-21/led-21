@@ -1,65 +1,161 @@
-# Hi, I'm Adriano Godoy 👋
+# Adriano Godoy
 
-## Software Engineer | Full Stack Developer | AI/ML Enthusiast
+### Software Engineer • CTO • AI / Cloud Architect
 
-I’m a multidisciplinary engineer and software developer with over 10 years of experience delivering solutions across agriculture, livestock, mining, and environmental sectors. Currently CTO at TecProjet, I specialize in building scalable applications, IoT/automation systems, and AI-powered platforms that connect real-world engineering with modern software.
+Multidisciplinary engineer and software developer with **10+ years of experience** delivering high-impact solutions across **agriculture, livestock, mining, and environmental engineering**, bridging **real-world engineering challenges with modern software and AI-driven platforms**.
 
-### 🔧 Technical Skills
-
-**Languages & Frameworks:**
-- **Backend:** C# (.NET Core, ASP.NET), Python, Java, C++
-- **Frontend:** HTML, CSS, JavaScript
-- **Data & AI:** Natural Language Processing, Machine Learning, Azure AI Services
-- **Cloud & DevOps:** Microsoft Azure, Docker, GitHub Actions
-
-**Tools & Technologies:**
-- .NET Aspire, Ollama, Power BI
-- Git, Scrum/Agile Methodologies
-- Cybersecurity & Phishing Analysis
-- Ray Tracing & Computer Graphics
-
-### 💼 Featured Projects
-
-#### 🏆 [Microsoft Hackathon ROI Calculator](https://github.com/led-21/microsoft-hackathon-roi-calculator)
-**Microsoft Innovation Challenge - March 2025** | ⭐ 5 Stars
-- Built a comprehensive ROI calculator for the Microsoft Innovation Challenge Hackathon
-- Technologies: C#, .NET Core
-- Demonstrates business analysis and financial modeling capabilities
-
-#### 🤖 [Clean Architecture Application (CAA)](https://github.com/led-21/CAA)
-**Recent Project** | ⭐ 1 Star
-- Modern C# application following Clean Architecture principles
-- Implements best practices for maintainable and scalable code
-- Technologies: C#, .NET
-
-#### 🧠 [AI & NLP Projects](https://github.com/led-21/TextGenerator)
-**JetBrains Academy Course** | ⭐ 1 Star
-- Text generation using Natural Language Processing
-- Corpus annotation and linguistic analysis
-- Technologies: Python, NLP libraries
-- Related: [Corpus Annotation](https://github.com/led-21/CorpusAnnotation)
-
-#### 🎨 [Ray Tracing Implementation](https://github.com/led-21/RayTracingBook)
-**Computer Graphics** | ⭐ 1 Star
-- Implementation of ray tracing algorithms
-- Demonstrates understanding of 3D graphics and computational geometry
-- Technologies: C++
-
-### 🌱 Current Focus
-
-- Exploring AI-powered applications with .NET Aspire and Ollama
-- Developing agricultural commodity trading platforms
-- Building scalable cloud-native applications
-- Advancing expertise in Azure AI services
-
-### 🔗 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/adriano-godoy-84246051/)
-- 🌐 [GitHub](https://github.com/led-21)
-- 📧 Available for collaboration
+Currently **CTO at TecProjet**, leading the design and implementation of **scalable cloud-native systems, IoT automation, and AI-powered decision platforms**. Proven track record with **300+ engineering studies and software projects**, combining technical depth, business vision, and innovation.
 
 ---
 
-💡 **Open to:** freelance and collaborative projects in Software Engineering, AI/ML, and Cloud Architecture.
+## 🧠 Core Expertise
 
-⚡ **Fun fact:** I balance coding with agricultural technology projects, combining traditional industries with modern tech solutions!
+* Scalable software architecture (.NET & Cloud-native)
+* AI & Machine Learning applied to real-world problems
+* IoT, automation, and data-driven decision systems
+* Technical leadership, product strategy, and innovation
+
+---
+
+## 🎓 Academic Background
+
+* **Agronomic Engineering** – 2013
+* **Civil Engineering** – 2022
+* **Software Development** – since 2020
+* **Postgraduate Degree in Software Engineering** – 2025
+
+---
+
+## 🛠️ Technical Stack
+
+### Backend & Systems
+
+* **C# / .NET** (ASP.NET Core, .NET Aspire)
+* **Python**, Java, C++
+* REST APIs, Clean Architecture, Microservices
+
+### Frontend
+
+* HTML, CSS, JavaScript
+
+### AI, Data & Analytics
+
+* Machine Learning & NLP
+* Azure AI Services
+* Power BI & data visualization
+
+### Cloud & DevOps
+
+* Microsoft Azure
+* Docker
+* GitHub Actions (CI/CD)
+
+### Engineering & Tooling
+
+* IoT & automation systems
+* Git, Agile / Scrum
+* Cybersecurity
+* Computer Graphics & Ray Tracing
+
+---
+
+## 📜 Certifications
+
+* **Microsoft Certified: Azure AI Engineer Associate**
+* **Microsoft Certified: Azure Data Scientist Associate**
+* **Microsoft Certified: Azure AI Fundamentals**
+* **Microsoft Foundational C# Certification**
+
+---
+
+## 🏆 Awards & Hackathons
+
+* 🥇 **1st Place – Microsoft Hackathon (Nov 2025)**
+  *AgroHelpdesk – AI-powered agricultural support platform*
+  🔗 [AgroHelpdesk Repository](https://github.com/AgroHelpdesk/HackathonMicrosoftNov2025)
+
+* 🥇 **1st Place – CREA-MS Hackathon (May 2025)**
+  *AgroSynapse – Intelligent agricultural ecosystem*
+
+* 🥉 **3rd Place – MUTUA Hackathon (Apr 2025)**
+  *FieldGuard AI – Environmental and field risk monitoring*
+
+* 🥉 **3rd Place – Microsoft Hackathon (Dec 2024)**
+  *AI Search for Agricultural Planning*
+
+---
+
+## 🚀 Featured Projects
+
+### 🥇 AgroHelpdesk – Microsoft Hackathon Winner (Nov 2025)
+
+AI-powered platform for **agricultural technical support and decision-making**, designed for **scalability, automation, and real-world agribusiness impact**.
+The solution integrates **AI-driven analysis**, cloud services, and a modern web interface to support data-informed decisions in the agricultural sector.
+
+**Tech Stack:**
+
+* **Backend:** Python (API services and business logic)
+* **Frontend:** React (modern component-based UI)
+* **AI & Intelligence:** Azure AI Services (NLP, semantic analysis, cognitive services)
+* **Cloud Platform:** Microsoft Azure
+* **Architecture:** RESTful APIs, modular and scalable design
+
+🔗 [AgroHelpdesk Repository](https://github.com/AgroHelpdesk/HackathonMicrosoftNov2025)
+
+---
+
+### 📊 Microsoft Hackathon – ROI Calculator
+
+🔗 [https://github.com/led-21/microsoft-hackathon-roi-calculator](https://github.com/led-21/microsoft-hackathon-roi-calculator)
+
+Business-focused ROI calculator developed for the Microsoft Innovation Challenge Hackathon, integrating **financial modeling, engineering logic, and decision support**.
+
+**Tech Stack:**
+C#, .NET Core
+
+---
+
+### 🧱 Clean Architecture Application (CAA)
+
+🔗 [https://github.com/led-21/CAA](https://github.com/led-21/CAA)
+
+Modern .NET application showcasing **Clean Architecture**, SOLID principles, and maintainable enterprise-grade design.
+
+---
+
+### 🧠 AI & NLP Projects
+
+🔗 [https://github.com/led-21/TextGenerator](https://github.com/led-21/TextGenerator)
+
+Natural Language Processing projects including text generation, corpus annotation, and linguistic analysis.
+
+**Tech Stack:**
+Python, NLP libraries
+
+---
+
+### 🎨 Ray Tracing Engine
+
+🔗 [https://github.com/led-21/RayTracingBook](https://github.com/led-21/RayTracingBook)
+
+Implementation of ray tracing algorithms demonstrating expertise in **computer graphics, computational geometry, and performance-oriented programming**.
+
+---
+
+## 🌱 Current Focus
+
+* AI-powered platforms using **.NET Aspire** and **Ollama**
+* Agricultural intelligence systems
+* Cloud-native and scalable architectures
+* Advanced solutions with **Azure AI Services**
+
+---
+
+## 🔗 Professional Links
+
+* 💼 LinkedIn: [https://www.linkedin.com/in/adriano-godoy-84246051/](https://www.linkedin.com/in/adriano-godoy-84246051/)
+* 🧑‍💻 HackerRank: [https://www.hackerrank.com/profile/adriano_godoy](https://www.hackerrank.com/profile/adriano_godoy)
+
+---
+
+📌 *Open to international opportunities, consulting, and high-impact engineering projects involving AI, cloud platforms, and applied innovation.*
