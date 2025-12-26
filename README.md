@@ -1,6 +1,6 @@
 # Adriano Godoy
 
-### Software Engineer • CTO • AI / Cloud Architect
+### Software Engineer • AI / Cloud Architect
 
 Multidisciplinary engineer and software developer with **10+ years of experience** delivering high-impact solutions across **agriculture, livestock, mining, and environmental engineering**, bridging **real-world engineering challenges with modern software and AI-driven platforms**.
 
