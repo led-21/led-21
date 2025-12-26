@@ -123,17 +123,6 @@ Modern .NET application showcasing **Clean Architecture**, SOLID principles, and
 
 ---
 
-### 🧠 AI & NLP Projects
-
-🔗 [https://github.com/led-21/TextGenerator](https://github.com/led-21/TextGenerator)
-
-Natural Language Processing projects including text generation, corpus annotation, and linguistic analysis.
-
-**Tech Stack:**
-Python, NLP libraries
-
----
-
 ### 🎨 Ray Tracing Engine
 
 🔗 [https://github.com/led-21/RayTracingBook](https://github.com/led-21/RayTracingBook)
