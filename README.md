@@ -146,7 +146,3 @@ C++
 
 * 💼 LinkedIn: [https://www.linkedin.com/in/adriano-godoy-84246051/](https://www.linkedin.com/in/adriano-godoy-84246051/)
 * 🧑‍💻 HackerRank: [https://www.hackerrank.com/profile/adriano_godoy](https://www.hackerrank.com/profile/adriano_godoy)
-
----
-
-📌 *Open to international opportunities, consulting, and high-impact engineering projects involving AI, cloud platforms, and applied innovation.*
