@@ -1,55 +1,70 @@
 # Adriano Godoy  
-### Software Engineer • AI & Cloud Architect
+### AI & Cloud Systems Architect • Software Engineer • Multidisciplinary Innovator
 
-Multidisciplinary engineer and software developer with **10+ years of experience** delivering **real-world, high-impact solutions** across **agriculture, livestock, mining, and environmental engineering**, bridging **deep engineering knowledge with modern software, cloud, and AI-driven platforms**.
+Engineer and software architect focused on building **AI-powered, cloud-native systems that solve real-world problems at scale**.
 
-Currently **CTO at TecProjet**, leading the design and implementation of **cloud-native architectures, IoT automation, and AI-powered decision systems**. Proven track record with **300+ engineering studies and software projects**, combining **technical depth, scalability, and business-driven innovation**.
+With **10+ years of engineering experience** across agriculture, livestock, mining, and environmental sectors — and a strong transition into software and AI — I specialize in transforming complex physical-world challenges into **intelligent digital platforms**.
+
+Currently **CTO at TecProjet**, leading the development of distributed systems, IoT automation, and AI-driven decision platforms using Microsoft Azure.
+
+> Bridging engineering, AI, and cloud architecture to create systems that operate in the real world — not just demos.
+
+---
+
+## 🚀 What I Build
+
+- AI-driven platforms for real-world decision making
+- Cloud-native distributed systems
+- Intelligent IoT & automation architectures
+- Multimodal AI applications
+- Scalable enterprise software using modern architecture patterns
 
 ---
 
 ## 🧠 Core Expertise
 
-- Scalable software architecture (**.NET, Clean Architecture, Cloud-native**)
-- AI & Machine Learning applied to **real-world engineering problems**
-- IoT, automation, and data-driven decision platforms
-- Technical leadership, system design, and product strategy
-- Translating complex engineering domains into **software products**
+- **Cloud Architecture & Distributed Systems** (.NET, Azure, Event-driven design)
+- **Applied AI & Machine Learning** for engineering and industry
+- **System Design & Technical Leadership**
+- **IoT and Automation Platforms**
+- Turning domain complexity into scalable software products
 
 ---
 
 ## 🎓 Academic Background
 
-- **Agronomic Engineering** – 2013  
-- **Civil Engineering** – 2022  
-- **Software Development** – since 2020  
-- **Postgraduate Degree in Software Engineering** – 2025  
+- **Agronomic Engineering** — 2013  
+- **Civil Engineering** — 2022  
+- **Software Development Transition** — since 2020  
+- **Postgraduate Degree in Software Engineering** — 2025  
 
 ---
 
 ## 🛠️ Technical Stack
 
-### Backend & Systems
-- **C# / .NET** (ASP.NET Core, .NET Aspire)
-- **Python**, Java, C++
-- RESTful APIs, Clean Architecture, Microservices
+### Backend & Architecture
+- C# / .NET (ASP.NET Core, .NET Aspire)
+- Python, Java, C++
+- Clean Architecture, Microservices, REST APIs
+- Event-driven and cloud-native systems
 
 ### Frontend
-- HTML, CSS, JavaScript
 - React (project-based)
+- HTML, CSS, JavaScript
 
-### AI, Data & Analytics
-- Machine Learning & NLP
+### AI & Data
 - Azure AI Services
-- Data analysis & visualization (Power BI)
+- NLP & Machine Learning
+- Data analytics & visualization (Power BI)
 
 ### Cloud & DevOps
 - Microsoft Azure
 - Docker
 - GitHub Actions (CI/CD)
+- Observability & distributed telemetry
 
-### Engineering & Tooling
+### Engineering & Systems
 - IoT & industrial automation
-- Git, Agile / Scrum
 - Cybersecurity fundamentals
 - Computer Graphics & Ray Tracing
 
@@ -57,77 +72,68 @@ Currently **CTO at TecProjet**, leading the design and implementation of **cloud
 
 ## 📜 Certifications
 
-- **Microsoft Certified: Azure AI Engineer Associate**
-- **Microsoft Certified: Azure Data Scientist Associate**
-- **Microsoft Certified: Azure AI Fundamentals**
-- **Microsoft Foundational C# Certification**
+- Microsoft Certified: **Azure Administrator Associate**
+- Microsoft Certified: **Azure AI Engineer Associate**
+- Microsoft Certified: **Azure Data Scientist Associate**
+- Microsoft Certified: **Azure AI Fundamentals**
+- Microsoft **C# Foundational Certification**
 
 ---
 
 ## 🏆 Awards & Hackathons
 
-🥇 **1st Place – Microsoft Hackathon (Nov 2025)**  
-**AgroHelpdesk** – AI-powered agricultural support platform  
+🥇 **1st Place — Microsoft Hackathon (Nov 2025)**  
+**AgroHelpdesk** — AI-powered agricultural decision platform  
 🔗 https://github.com/AgroHelpdesk/HackathonMicrosoftNov2025  
 
-🥇 **1st Place – CREA-MS Hackathon (May 2025)**  
-**AgroSynapse** – Intelligent agricultural ecosystem  
+🥇 **1st Place — CREA-MS Hackathon (May 2025)**  
+**AgroSynapse** — Intelligent agricultural ecosystem  
 
-🥉 **3rd Place – MUTUA Hackathon (Apr 2025)**  
-**FieldGuard AI** – Environmental and field risk monitoring  
+🥉 **3rd Place — MUTUA Hackathon (Apr 2025)**  
+**FieldGuard AI** — Environmental risk monitoring  
 
-🥉 **3rd Place – Microsoft Hackathon (Dec 2024)**  
-**AI Search for Agricultural Planning**
+🥉 **3rd Place — Microsoft Hackathon (Dec 2024)**  
+AI Search for Agricultural Planning
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
-### 🥇 AgroHelpdesk — Microsoft Hackathon Winner (Nov 2025)
+### ♿ AccessMesh-AI — Multimodal AI Communication Platform
+AI-native real-time communication infrastructure enabling interaction across speech, text, and sign language using an Agent Mesh architecture on Azure.
 
-AI-powered platform for **agricultural technical support and decision-making**, designed with a strong focus on **scalability, automation, and real agribusiness impact**.
+**Key Concepts**
+- Multimodal AI orchestration
+- Real-time accessibility
+- Event-driven distributed architecture
+- Responsible AI by design
 
-The system integrates **AI-driven analysis**, cloud services, and a modern web interface to support **data-informed decisions** in the agricultural sector.
+🔗 https://github.com/DanilloAraujo/AccessMesh-AI
 
-**Tech Stack**
-- Backend: Python (API services & business logic)
-- Frontend: React
-- AI: Azure AI Services (NLP, semantic analysis)
-- Cloud: Microsoft Azure
-- Architecture: RESTful, modular, scalable
+---
+
+### 🥇 AgroHelpdesk — Microsoft Hackathon Winner
+AI-powered platform for agricultural technical support and data-driven decision making.
+
+**Stack**
+- Python backend
+- React frontend
+- Azure AI Services
+- Cloud-native architecture
 
 🔗 https://github.com/AgroHelpdesk/HackathonMicrosoftNov2025
 
 ---
 
-### 📊 ROI Calculator — Microsoft Innovation Hackathon
-
-Business-oriented ROI calculator integrating **financial modeling, engineering logic, and decision support**.
-
-**Tech Stack:**  
-C#, .NET Core
-
-🔗 https://github.com/led-21/microsoft-hackathon-roi-calculator
-
----
-
 ### 🧱 Clean Architecture Application (CAA)
-
-Modern .NET application demonstrating **Clean Architecture**, **SOLID principles**, and enterprise-grade maintainability.
-
-**Tech Stack:**  
-C#, .NET
+Enterprise-grade .NET project demonstrating SOLID principles and maintainable architecture patterns.
 
 🔗 https://github.com/led-21/CAA
 
 ---
 
 ### 🎨 Ray Tracing Engine
-
-Implementation of ray tracing algorithms showcasing expertise in **computer graphics, computational geometry, and performance-oriented programming**.
-
-**Tech Stack:**  
-C++
+Performance-oriented implementation of ray tracing algorithms exploring computational geometry and rendering techniques.
 
 🔗 https://github.com/led-21/RayTracingBook
 
@@ -135,14 +141,19 @@ C++
 
 ## 🌱 Current Focus
 
-- AI-powered platforms using **.NET Aspire** and **Ollama**
-- Cloud-native and distributed systems
-- Agricultural intelligence & decision platforms
-- Scalable architectures with **Azure AI Services**
+- AI-native systems and agent-based architectures
+- Azure-first cloud platforms
+- Distributed intelligent systems
+- Agricultural intelligence & digital twins
+- Multimodal AI and accessibility technology
 
 ---
 
 ## 🔗 Professional Links
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/adriano-godoy-84246051/](https://www.linkedin.com/in/adriano-godoy-84246051/)
-* 🧑‍💻 HackerRank: [https://www.hackerrank.com/profile/adriano_godoy](https://www.hackerrank.com/profile/adriano_godoy)
+💼 LinkedIn  
+https://www.linkedin.com/in/adriano-godoy-84246051/
+
+🧑‍💻 HackerRank  
+https://www.hackerrank.com/profile/adriano_godoy
+
