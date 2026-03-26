@@ -1,159 +1,133 @@
 # Adriano Godoy  
-### AI & Cloud Systems Architect • Software Engineer • Multidisciplinary Innovator
+### Software Engineer • AI & Cloud Architect
 
-Engineer and software architect focused on building **AI-powered, cloud-native systems that solve real-world problems at scale**.
+Multidisciplinary engineer building **AI-native platforms, cloud architectures, and intelligent systems** that bridge real-world engineering domains with modern software.
 
-With **10+ years of engineering experience** across agriculture, livestock, mining, and environmental sectors — and a strong transition into software and AI — I specialize in transforming complex physical-world challenges into **intelligent digital platforms**.
+With **10+ years of engineering experience** and a transition into software and AI, I specialize in designing **scalable, distributed, and intelligent systems** applied to agriculture, accessibility, environmental monitoring, and industrial automation.
 
-Currently **CTO at TecProjet**, leading the development of distributed systems, IoT automation, and AI-driven decision platforms using Microsoft Azure.
-
-> Bridging engineering, AI, and cloud architecture to create systems that operate in the real world — not just demos.
+Currently focused on **AI systems architecture, multimodal interfaces, and cloud-native platforms on Microsoft Azure**.
 
 ---
 
-## 🚀 What I Build
+## 🚀 Featured Projects
 
-- AI-driven platforms for real-world decision making
-- Cloud-native distributed systems
-- Intelligent IoT & automation architectures
-- Multimodal AI applications
-- Scalable enterprise software using modern architecture patterns
+### 🧠 AccessMesh-AI — Multimodal AI Communication Infrastructure
+🔗 https://github.com/DanilloAraujo/AccessMesh-AI
+
+Real-time AI communication platform designed to remove barriers between **speech, text, and sign language users**.
+
+AccessMesh-AI introduces an **event-driven Agent Mesh Architecture**, orchestrating specialized AI agents for transcription, translation, gesture interpretation, summarization, and accessibility enhancement.
+
+**Highlights**
+- Multimodal AI pipeline (speech + text + gesture)
+- Real-time communication using Azure Web PubSub
+- Responsible AI with Content Safety
+- Distributed event-driven architecture
+
+**Tech**
+Azure OpenAI • Speech Services • Translator • Cosmos DB • Service Bus • Application Insights
+
+---
+
+### 🥇 AgroHelpdesk — Microsoft Hackathon Winner
+🔗 https://github.com/AgroHelpdesk/HackathonMicrosoftNov2025
+
+AI-powered agricultural decision-support platform providing technical guidance and knowledge assistance for farmers and agronomists.
+
+Designed for scalability and real-world adoption, combining AI reasoning with domain-specific engineering knowledge.
+
+**Highlights**
+- AI-assisted recommendations
+- Cloud-native backend
+- Real agribusiness application
+
+**Tech**
+Python • React • Azure AI Services • REST APIs
+
+---
+
+### 🎨 Ray Tracing Engine — Computer Graphics & Performance Engineering
+🔗 https://github.com/led-21/RayTracingBook
+
+Implementation of ray tracing algorithms focused on **rendering physics, computational geometry, and performance-oriented programming**.
+
+Demonstrates strong foundations in computer science, mathematics, and low-level optimization.
+
+**Tech**
+C++ • Rendering Algorithms • Linear Algebra • Performance Optimization
+
+---
+
+### 📊 ROI Calculator — Engineering & Business Decision Systems
+🔗 https://github.com/led-21/microsoft-hackathon-roi-calculator
+
+Business-oriented ROI calculator integrating engineering modeling with financial analysis to support investment decision-making.
+
+**Highlights**
+- Domain-driven logic
+- Engineering + business modeling
+- Practical decision-support tooling
+
+**Tech**
+C# • .NET • Clean Architecture
 
 ---
 
 ## 🧠 Core Expertise
 
-- **Cloud Architecture & Distributed Systems** (.NET, Azure, Event-driven design)
-- **Applied AI & Machine Learning** for engineering and industry
-- **System Design & Technical Leadership**
-- **IoT and Automation Platforms**
-- Turning domain complexity into scalable software products
+- AI Systems Architecture
+- Cloud-native applications (Azure)
+- Distributed & Event-driven systems
+- Multimodal AI and intelligent interfaces
+- IoT and real-world automation platforms
+- Translating complex engineering domains into software products
 
 ---
 
-## 🎓 Academic Background
+## ☁️ Technologies
 
-- **Agronomic Engineering** — 2013  
-- **Civil Engineering** — 2022  
-- **Software Development Transition** — since 2020  
-- **Postgraduate Degree in Software Engineering** — 2025  
+**Languages**
+C# • Python • C++ • JavaScript
 
----
+**Cloud & AI**
+Microsoft Azure • Azure OpenAI • Azure AI Services • Machine Learning
 
-## 🛠️ Technical Stack
+**Architecture**
+Clean Architecture • Microservices • Event-driven Systems • REST APIs
 
-### Backend & Architecture
-- C# / .NET (ASP.NET Core, .NET Aspire)
-- Python, Java, C++
-- Clean Architecture, Microservices, REST APIs
-- Event-driven and cloud-native systems
-
-### Frontend
-- React (project-based)
-- HTML, CSS, JavaScript
-
-### AI & Data
-- Azure AI Services
-- NLP & Machine Learning
-- Data analytics & visualization (Power BI)
-
-### Cloud & DevOps
-- Microsoft Azure
-- Docker
-- GitHub Actions (CI/CD)
-- Observability & distributed telemetry
-
-### Engineering & Systems
-- IoT & industrial automation
-- Cybersecurity fundamentals
-- Computer Graphics & Ray Tracing
-
----
-
-## 📜 Certifications
-
-- Microsoft Certified: **Azure Administrator Associate**
-- Microsoft Certified: **Azure AI Engineer Associate**
-- Microsoft Certified: **Azure Data Scientist Associate**
-- Microsoft Certified: **Azure AI Fundamentals**
-- Microsoft **C# Foundational Certification**
+**DevOps**
+Docker • GitHub Actions • CI/CD
 
 ---
 
 ## 🏆 Awards & Hackathons
 
-🥇 **1st Place — Microsoft Hackathon (Nov 2025)**  
-**AgroHelpdesk** — AI-powered agricultural decision platform  
-🔗 https://github.com/AgroHelpdesk/HackathonMicrosoftNov2025  
-
-🥇 **1st Place — CREA-MS Hackathon (May 2025)**  
-**AgroSynapse** — Intelligent agricultural ecosystem  
-
-🥉 **3rd Place — MUTUA Hackathon (Apr 2025)**  
-**FieldGuard AI** — Environmental risk monitoring  
-
-🥉 **3rd Place — Microsoft Hackathon (Dec 2024)**  
-AI Search for Agricultural Planning
+🥇 Microsoft Hackathon (2025) — AgroHelpdesk  
+🥇 CREA-MS Hackathon (2025) — AgroSynapse  
+🥉 MUTUA Hackathon (2025) — FieldGuard AI  
+🥉 Microsoft Hackathon (2024) — AI Search for Agricultural Planning  
 
 ---
 
-## 🌟 Featured Projects
+## 🎓 Background
 
-### ♿ AccessMesh-AI — Multimodal AI Communication Platform
-AI-native real-time communication infrastructure enabling interaction across speech, text, and sign language using an Agent Mesh architecture on Azure.
-
-**Key Concepts**
-- Multimodal AI orchestration
-- Real-time accessibility
-- Event-driven distributed architecture
-- Responsible AI by design
-
-🔗 https://github.com/DanilloAraujo/AccessMesh-AI
-
----
-
-### 🥇 AgroHelpdesk — Microsoft Hackathon Winner
-AI-powered platform for agricultural technical support and data-driven decision making.
-
-**Stack**
-- Python backend
-- React frontend
-- Azure AI Services
-- Cloud-native architecture
-
-🔗 https://github.com/AgroHelpdesk/HackathonMicrosoftNov2025
-
----
-
-### 🧱 Clean Architecture Application (CAA)
-Enterprise-grade .NET project demonstrating SOLID principles and maintainable architecture patterns.
-
-🔗 https://github.com/led-21/CAA
-
----
-
-### 🎨 Ray Tracing Engine
-Performance-oriented implementation of ray tracing algorithms exploring computational geometry and rendering techniques.
-
-🔗 https://github.com/led-21/RayTracingBook
+- Agronomic Engineering — 2013  
+- Civil Engineering — 2022  
+- Postgraduate Degree in Software Engineering — 2025  
 
 ---
 
 ## 🌱 Current Focus
 
-- AI-native systems and agent-based architectures
-- Azure-first cloud platforms
+- AI-native architectures
+- Agent-based systems
+- Multimodal interaction platforms
 - Distributed intelligent systems
-- Agricultural intelligence & digital twins
-- Multimodal AI and accessibility technology
+- Azure-based AI ecosystems
 
 ---
 
-## 🔗 Professional Links
+## 🔗 Connect
 
-💼 LinkedIn  
-https://www.linkedin.com/in/adriano-godoy-84246051/
-
-🧑‍💻 HackerRank  
-https://www.hackerrank.com/profile/adriano_godoy
-
+💼 LinkedIn: https://www.linkedin.com/in/adriano-godoy-84246051/  
+🧑‍💻 HackerRank: https://www.hackerrank.com/profile/adriano_godoy
