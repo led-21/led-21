@@ -100,6 +100,16 @@ Docker • GitHub Actions • CI/CD
 
 ---
 
+## 🎓 Certifications
+
+* Microsoft Certified: **Azure Administrator Associate**
+* Microsoft Certified: **Azure AI Engineer Associate**
+* Microsoft Certified: **Azure Data Scientist Associate**
+* Microsoft Certified: **Azure AI Fundamentals**
+* **Foundational C# with Microsoft Certification Exam**
+
+---
+
 ## 🏆 Awards & Hackathons
 
 🥇 Microsoft Hackathon (2025) — AgroHelpdesk  
