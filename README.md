@@ -1,12 +1,12 @@
 # Adriano Godoy
 
-### Forward Deployed AI Engineer · Software Engineer · Azure & Cloud Platforms
+### AI Engineer · Software Engineer · Azure & Cloud Platforms
 
-I design, build, and deploy **AI-enabled software systems that solve real operational problems**.
+I design, build, and deploy production-ready AI and software systems that solve real-world operational problems.
 
-My background combines **5+ years in software development** with **10+ years delivering multidisciplinary engineering and technology projects** across agribusiness, environmental monitoring, industrial automation, mining, BIM, and public-sector applications.
+My background combines 5+ years of software engineering experience with more than 10 years delivering multidisciplinary engineering and technology projects across agribusiness, environmental monitoring, industrial automation, mining, BIM, and public-sector solutions.
 
-I work across the complete solution lifecycle:
+I work across the full solution lifecycle:
 
 **Discovery → Architecture → Development → Deployment → Observability → Operational Adoption**
 
